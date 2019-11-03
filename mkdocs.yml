@@ -1,0 +1,12 @@
+site_name: SDA-DATA
+theme: windmill
+
+nav: 
+  - Home: 'index.md'
+  - BLAZE: 
+    - Blaze - Instalações: 'BLAZE/blaze01.md'
+    - Blaze - Utilização: 'BLAZE/blaze02.md'
+    - Blaze - Deploy: 'BLAZE/blaze03.md'
+    
+extra_css:
+  - css/extra_css.css
